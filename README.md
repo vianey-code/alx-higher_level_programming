@@ -1,2 +1,4 @@
-# ALX School Higher-level Programming Language.
+# ALX school
+# Higher-level Programming Languages.
+Everything about Python.
 
